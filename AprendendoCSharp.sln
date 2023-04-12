@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-escopo", "9-escopo\9-esco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-calculandoJoao", "10-calculandoJoao\10-calculandoJoao.csproj", "{15E0582C-8E4D-4391-96B3-800FC55B8D18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-CalculaPoupanca", "P11-CalculaPoupanca\P11-CalculaPoupanca.csproj", "{64F18A21-05E4-4BF2-810B-5B97BEE24C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12-CalculaPoupanca", "P12-CalculaPoupanca\P12-CalculaPoupanca.csproj", "{23720EF1-7027-4040-B393-2ED430FC8BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{15E0582C-8E4D-4391-96B3-800FC55B8D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15E0582C-8E4D-4391-96B3-800FC55B8D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15E0582C-8E4D-4391-96B3-800FC55B8D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F18A21-05E4-4BF2-810B-5B97BEE24C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F18A21-05E4-4BF2-810B-5B97BEE24C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F18A21-05E4-4BF2-810B-5B97BEE24C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F18A21-05E4-4BF2-810B-5B97BEE24C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23720EF1-7027-4040-B393-2ED430FC8BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23720EF1-7027-4040-B393-2ED430FC8BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23720EF1-7027-4040-B393-2ED430FC8BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23720EF1-7027-4040-B393-2ED430FC8BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
